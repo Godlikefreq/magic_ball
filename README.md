@@ -1,6 +1,7 @@
 # Description
 This is a Digital version of a popular, every-wizard's-must-have device, called "Magic Ball". 
 It can answer every question with 110% accuracy.
+
 Game's Wiki link: <https://en.wikipedia.org/wiki/Magic_8_Ball>
 
 ### How to use
