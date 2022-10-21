@@ -8,4 +8,8 @@ Game's Wiki link: <https://en.wikipedia.org/wiki/Magic_8_Ball>
 1. You need Ruby installed on your PC.
 2. Open game's folder through command console.
 3. Think of a question, you want to receive an answer.
-4. Write `ruby magic_ball.rb`.
+4. Write:
+
+```
+ruby magic_ball.rb
+```
